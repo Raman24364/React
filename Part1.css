@@ -1,0 +1,14 @@
+.Part1{
+    
+    float: left;
+    width: 100%;
+}
+.Part_h1{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(157, 157, 157);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:15px;
+    border-radius: 30px;
+}

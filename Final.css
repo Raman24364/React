@@ -1,0 +1,29 @@
+.Main_1{
+    display: flex;
+    border: 1px solid black;
+    width:100%;
+    height:50px;
+    background-image: linear-gradient(300deg, #464647 10%, #9f9f9f 74%);
+
+}
+.Sign_up{
+    margin: auto;
+}
+.input-1{
+    padding:15px;
+    width:50%;
+    height:30px;
+    margin-right: auto;
+    margin-top: 8px;
+    margin-left: auto;
+}
+.butn{
+    margin-right:auto;
+    width:100px;
+    height: 30px;
+    margin-top: 4px;
+    padding: 20px;
+    background-color:rgb(158, 158, 158) ;
+    font-weight: bolder;
+
+}

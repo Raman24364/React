@@ -1,0 +1,48 @@
+.Border{
+    margin-top: 50px;
+    border:2px solid rgb(255, 255, 255);
+    width:100%;
+    height:100%;
+    background:linear-gradient(315deg, #004e36 0%, #2d2d2d 74%);
+}
+.Class{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Explore, .Support, .Connected{
+    text-align: center;
+    flex-grow: 1;
+    margin-left: 30px;
+}
+.section{
+    color:rgb(255, 255, 255);
+
+}
+.section-1{
+    color:rgb(255, 255, 255);
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    font-size: 25px;
+}
+
+.header{
+    color: white;
+}
+
+#pa{
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    color: aliceblue;
+}
+.Policy{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bolder;
+}
